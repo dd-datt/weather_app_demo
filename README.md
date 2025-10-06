@@ -80,7 +80,7 @@ lib/
 1. **Clone repository**
 
    ```bash
-   git clone []
+   git clone [https://github.com/dd-datt/weather_app_demo.git]
    cd weather_demo
    ```
 
@@ -116,8 +116,6 @@ lib/
 - Kiến trúc modular để dễ dàng thêm tính năng
 - Tách biệt các mối quan tâm
 - Thiết kế thành phần có thể tái sử dụng
-
-## 📱 Ảnh Chụp Màn Hình
 
 ## 🎯 Kỹ Năng Được Thể Hiện
 
